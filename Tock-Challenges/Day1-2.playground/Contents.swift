@@ -2,4 +2,12 @@
 
 import Cocoa
 
-var str = "Hello, playground"
+
+
+print("Please input all text")
+var input = Int(readLine(stripNewline: true)!)!
+
+
+if input contains(":-)"){
+    
+}
