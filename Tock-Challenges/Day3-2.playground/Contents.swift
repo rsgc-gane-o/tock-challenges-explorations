@@ -28,3 +28,5 @@ if (pickerel <= points) {
         print(pickerelpoints)
     }
 }
+print ("Number of ways to catch fish: ")
+print (pickerel + pike + trout) 
